@@ -1,0 +1,13 @@
+{
+  "name": "emstack",
+  "version": "1.0.0",
+  "description": "emstack",
+  "bin": {
+    "index": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emin TATLI",
+  "license": "ISC"
+}
